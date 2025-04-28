@@ -30,6 +30,8 @@ export default function Home() {
         />
       </div>
 
+      <h2>hello i'm new here fam </h2>
+
       <button onClick={handlechnages}> change color </button>
     </div>
   );
